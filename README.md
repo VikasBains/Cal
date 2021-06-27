@@ -1,4 +1,4 @@
-# Cal
+### Cal
 This is for test development.
 
 - Result for parse-log-file.py looks like:
@@ -20,4 +20,3 @@ POST calls for Linux = 3
 
 GET calls for Windows = 1272
 POST calls for Windows = 359
-
