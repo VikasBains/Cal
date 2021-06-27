@@ -1,7 +1,5 @@
-### Cal
-This is for test development.
+### Result for parse-log-file.py looks like:
 
-- Result for parse-log-file.py looks like:
 Number of queries per day:
 01/Dec/2011 2822
 01/Foo/2011 1
