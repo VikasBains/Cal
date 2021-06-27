@@ -1,4 +1,4 @@
-# Result for parse-log-file.py looks like:
+### Result for parse-log-file.py looks like:
 
 Number of queries per day:
 01/Dec/2011 2822
@@ -18,4 +18,3 @@ POST calls for Linux = 3
 
 GET calls for Windows = 1272
 POST calls for Windows = 359
-
